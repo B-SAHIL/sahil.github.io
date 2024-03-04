@@ -1,0 +1,18 @@
+.box-1 {
+  border: blue solid 5px;
+  margin-bottom: 1rem;
+  padding: 10px;
+}
+
+.box-2{
+  border: red solid 5px;
+  padding: 10px;
+}
+p {
+  border: 2px solid;
+  margin: 0;
+}
+.box-3 {
+  background-image: url("../day-1/images/ad-like-google.png");
+  height: 250px;
+}

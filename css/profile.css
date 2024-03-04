@@ -1,0 +1,52 @@
+/* body {
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+
+h2 {
+    font-size: 24px;
+}
+
+header img {
+  max-width: 200px;
+  border-radius: 8rem;
+}
+
+header,
+.about-me,
+.projects {
+  text-align: center;
+}
+
+/* background-color: rgb(173, 171, 171);.about-me {
+
+} */
+
+.about-me p {
+  line-height: 30px;
+  padding: 20px;
+  font-size: 18px;
+  max-width: 30rem;
+  margin: auto;
+}
+
+.projects p {
+  line-height: 30px;
+  padding: 20px;
+  font-size: 20px;
+  max-width: 30rem;
+  margin: auto;
+}
+
+.projects img {
+  max-width: 20rem;
+  margin: auto;
+  margin: 10px;
+  /* border-radius: 8rem; */
+}
+
